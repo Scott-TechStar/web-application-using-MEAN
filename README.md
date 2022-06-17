@@ -5,5 +5,3 @@ To run the code use;
 ,,,
 node index.js
 ,,,
-
-designed by johnniekips@gmail.com
